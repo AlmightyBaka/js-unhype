@@ -1,7 +1,7 @@
 {
-  "name": "nuxt-test",
+  "name": "js-unhype",
   "version": "1.0.0",
-  "description": "Nuxt.js project",
+  "description": "A website to neutralise JavaScript choice paralysis",
   "author": "Almighty Baka <ivanfedulov@almightybaka.com>",
   "private": true,
   "dependencies": {

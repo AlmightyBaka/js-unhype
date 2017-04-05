@@ -1,6 +1,12 @@
-# nuxt-test
+js-unhype
+---
+A website to neutralise JavaScript choice paralysis
 
-> Nuxt.js project
+## Why?
+
+## How to add entries?
+
+## What's planned?
 
 ## Build Setup
 
