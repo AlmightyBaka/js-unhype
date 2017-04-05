@@ -1,8 +1,8 @@
 <template>
 <div class="layout">
     <nav class="header-nav">
-        <nuxt-link to="/about">About</nuxt-link>
-        <nuxt-link to="/intro">Intro</nuxt-link>        
+        <nuxt-link to="about">About</nuxt-link>
+        <nuxt-link to="intro">Intro</nuxt-link>
     </nav>
     <nuxt class="content"/>
     <div class="footer">
@@ -23,7 +23,7 @@ html, body
     a
         display inline-block
         padding 1em
-    
+
         &:hover
             background-color violet
             color white
